@@ -1,0 +1,25 @@
+.adm-tab-bar-item-active {
+  color: #21b97a !important;
+}
+
+.iconfont {
+  font-size: 20px;
+}
+
+.home {
+  height: 100vh;
+  // display: flex;
+  // flex-direction: column;
+}
+
+.center {
+  padding-bottom: 50px;
+  // flex: 1;
+}
+
+.bottom {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  background-color: #fff;
+}
