@@ -6,6 +6,10 @@
 
 使用React18 + react-router-dom@ + ant-design-mobile  + axios + hooks开发项目
 
+## 目录中有两个大文件不存在
+分别是hkzf_v1/data/house.json和hkzf_v1/db/hkzf.sql
+可以在https://gitee.com/Zoe_x/hospitality-rental中下载
+
 ## 启动项目
 
 1. 拉取代码
